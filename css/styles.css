@@ -1,0 +1,120 @@
+
+body{
+    text-align: center;
+}
+
+#title {
+
+    background-color: #ff4c68;
+    padding: 5%;
+}
+
+
+.Container-fluid {
+    margin: 0% 15%;
+}
+
+.title-image{
+     width: 60%;
+    margin-left: 20%;
+    transform: rotate(25deg);
+    position: absolute;
+    /* z-index: 1; */
+}
+.row{
+    margin: 5% auto;
+    
+}
+
+#Heading{
+    color: aliceblue;
+    font-size: 300%;
+    font-weight: lighter;
+    font-family: 'Anton', sans-serif;
+    padding: 5%;
+}
+
+#features{
+    background-color: #fff;
+    text-align: center;
+    position: relative;
+    padding: 7% 15%;
+    font-family: 'Montserrat', sans-serif;
+    /* z-index: 1;
+} */
+}
+
+.F-line{
+    padding: 2% 12% 2% 12%;
+    color:#9dab86;
+}
+
+.icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+
+/* testomonial */
+
+#testimonials {
+   text-align: center;
+    background-color: #ef8172;
+}
+
+.carisol{
+    padding: 7% 25%;
+}
+
+
+.testimonial-image{
+    border-radius: 100%;
+    width: 15%;
+    padding: 20px;
+}
+
+.testimonial-text {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #fff;
+}
+
+/*--------- press----- */
+
+.press-img {
+    background-color: #ef8172;
+    padding: 7% 15%;
+  
+}
+.press-image{
+    width: 20%;
+}
+
+/* Pricing */
+
+#pricing{
+    padding: 100px;
+   text-align: center;
+}
+
+#cta{
+    padding: 7% 25%;
+   text-align: center;
+   color: #fff;
+    
+    background-color: #ff4c68;
+}
+.cta-heading{
+    padding-bottom: 10%;
+    line-height: 1.5;
+}
+
+#footer{
+    text-align: center;
+    padding: 5%;
+}
+
+.social-icon{
+    padding: 3% 1.5%;
+}
